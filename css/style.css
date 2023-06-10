@@ -23,7 +23,7 @@ main > .container-fluid:nth-child(2) {
     
     
    
-    height:75vh;
+    height: 1731px;;
 
 
 
@@ -165,7 +165,10 @@ mix-blend-mode: normal;
 
 #lastsection{
 
-padding: 0 8.33vw !important;
+
+padding-top: 65px;
+padding-left: 80px;
+padding-right: 80px;
 }
 
 @media (max-width: 768px) {
